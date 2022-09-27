@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "mt_moviles",
+            "cwd": "mt_moviles",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mt_moviles (profile mode)",
+            "cwd": "mt_moviles",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mt_moviles (release mode)",
+            "cwd": "mt_moviles",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
